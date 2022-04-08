@@ -50,7 +50,7 @@
 // });
 
 var url = window.location.href; //obtenemos todo el url
-var pwaLocation = '/prueba/sw.js'; //path donde se encuentra el sw en GitHub
+var pwaLocation = '/PWA/sw.js'; //path donde se encuentra el sw en GitHub
 
 if(navigator.serviceWorker){
     if(url.includes('localhost')){
