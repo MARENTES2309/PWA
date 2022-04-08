@@ -1,0 +1,51 @@
+{
+  "short_name":"PWA",
+  "name":"Carlos Marentes",
+  "start_url":"index.html",
+  "background_color":"#20B2AA",
+  "display":"standalone",
+  "orientation": "portrait",
+  "icons": [
+
+    {
+
+        "src": "./images/icons/icon-512x512.png",
+
+        "type":"image/png",
+
+        "sizes": "512x512"
+
+    },
+
+    {
+
+        "src": "./images/icons/icon-256x256.png",
+
+        "type":"image/png",
+
+        "sizes": "256x256"
+
+    },
+
+    {
+
+        "src": "./images/icons/icon-128x128.png",
+
+        "type":"image/png",
+
+        "sizes": "128x128"
+
+    },
+
+    {
+
+        "src": "./images/icons/icon-64x64.png",
+
+        "type":"image/png",
+
+        "sizes": "64x64"
+
+    }],
+  "theme_color": "#20B2AA"
+  
+}
